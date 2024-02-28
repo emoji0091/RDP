@@ -17,7 +17,7 @@ NORDVPN_PASSWORD="Carmaaasen11"
 nordvpn login -u "$NORDVPN_USERNAME" -p "$NORDVPN_PASSWORD"
 
 # Connect to a specific server (replace SERVER_NAME with the server you want to connect to)
-nordvpn connect SERVER_NAME
+nordvpn connect Atlanta
 
 function goto
 {
