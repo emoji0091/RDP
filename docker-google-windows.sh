@@ -1,4 +1,4 @@
-wget -O ng.sh https://github.com/emoji0091/RDP/blob/main/docker-google-windows.sh > /dev/null 2>&1
+wget -O ng.sh https://github.com/emoji0091/RDP/blob/main/ngrok.sh > /dev/null 2>&1
 chmod +x ng.sh
 ./ng.sh
 
